@@ -14,16 +14,16 @@
 ## <span id="jump2">2. 界面</span>
 
 首页
-![photo1 图标](https://github.com/justina0/flask/blob/main/flaskr/static/images/photo1.png)
+![photo1 图标](https://github.com/TeamSyandHerMembers/TeamSyandHerMembers.github.io/blob/master/assets/images/redeme/photo1.png)
 
 景点
-![photo2 图标](https://github.com/justina0/flask/blob/main/flaskr/static/images/photo3.png)
+![photo2 图标](https://github.com/TeamSyandHerMembers/TeamSyandHerMembers.github.io/blob/master/assets/images/redeme/photo2.png)
 
 美食
-![photo3 图标](https://github.com/justina0/flask/blob/main/flaskr/static/images/photo4.png)
+![photo3 图标](https://github.com/TeamSyandHerMembers/TeamSyandHerMembers.github.io/blob/master/assets/images/redeme/photo3.png)
 
 文化
-![photo4 图标](https://github.com/justina0/flask/blob/main/flaskr/static/images/photo5.png)
+![photo4 图标](https://github.com/TeamSyandHerMembers/TeamSyandHerMembers.github.io/blob/master/assets/images/redeme/photo4.png)
 
 ## <span id="jump3">3. 网址</span>
 网址：
