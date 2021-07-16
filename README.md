@@ -26,4 +26,4 @@
 ![photo4 图标](https://github.com/TeamSyandHerMembers/TeamSyandHerMembers.github.io/blob/master/assets/images/redeme/photo4.png)
 
 ## <span id="jump3">3. 网址</span>
-网址：
+网址：https://teamsyandhermembers.github.io/
